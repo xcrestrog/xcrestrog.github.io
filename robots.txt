@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://xcrestrog.github.io/xcrestrog.txt.gz
+Sitemap: https://xcrestrog.github.io/app/xcrestrog.txt.gz
+Sitemap: https://xcrestrog.github.io/assets/xcrestrog.txt.gz
+Sitemap: https://xcrestrog.github.io/css/xcrestrog.txt.gz
+Sitemap: https://xcrestrog.github.io/includes/xcrestrog.txt.gz
+Sitemap: https://xcrestrog.github.io/item/xcrestrog.txt.gz
+Sitemap: https://xcrestrog.github.io/src/xcrestrog.txt.gz
